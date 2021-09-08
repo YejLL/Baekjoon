@@ -1,2 +1,2 @@
 # Baekjoon
-Baekjoon is an online judge site to improve your algorithmic programming skills
+Baekjoon is a one of the famous online judge site in South Korea to improve your algorithmic programming skills
