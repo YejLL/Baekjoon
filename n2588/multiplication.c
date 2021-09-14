@@ -10,4 +10,5 @@ int    main(void)
     e = a * (b / 100);
     res = a * b;
     printf("%d\n%d\n%d\n%d", c, d, e, res);
+    return (0);
 }
