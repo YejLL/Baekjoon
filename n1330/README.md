@@ -1,4 +1,4 @@
-● Compare two numbers
+∙ Compare two numbers
 
 
 
