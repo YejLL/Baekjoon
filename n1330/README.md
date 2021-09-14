@@ -1,8 +1,11 @@
 Compare two numbers
 
 Write a program to compare two numbers.
+
 If A is greater than B, print '>'
+
 If A is less than B, print '<'
+
 If A is equal to B, print '=='
 
 
