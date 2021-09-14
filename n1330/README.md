@@ -1,5 +1,3 @@
-Compare two numbers
-
 Write a program to compare two numbers.
 
 If A is greater than B, print '>'
