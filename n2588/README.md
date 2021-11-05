@@ -1,4 +1,4 @@
-∙ Multiplication
+# Multiplication
 
 You have a three-digit numbers in positions (1), (2).
 Write a program to find the values to be placed in (3), (4), (5), (6).
