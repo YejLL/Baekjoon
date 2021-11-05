@@ -1,4 +1,4 @@
-∙ Area of quadrant
+# Area of quadrant
 
 For exemple, a point with a coordinate of (12, 4) belongs to the first quadrant because both the x-coordinate and the y-coordinate are positive numbers.
 
