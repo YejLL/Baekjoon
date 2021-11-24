@@ -6,7 +6,7 @@ int	main(void)
 	int	test_case;
 	int	sum;
 
-	printf("How many times you want to test? : ");
+	printf("How many times do you want to test? : ");
 	scanf("%d", &test_case);
 	for (int x = 1; x <= test_case; x++)
 	{
